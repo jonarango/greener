@@ -1,6 +1,6 @@
 # 🧶 Green Commits
 
-[![Build Status](https://github.com/ITSXNOOBX/green-commits/workflows/ci/badge.svg?branch=master)](https://github.com/ITSXNOOBX/green-commits/actions)
+[![Build Status](https://github.com/ITSXNOOBX/greener/workflows/ci/badge.svg?branch=master)](https://github.com/ITSXNOOBX/greener/actions)
 
 Automatically keep GitHub commit status green.
 
