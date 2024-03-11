@@ -4,7 +4,7 @@
 
 Automatically keep GitHub commit status green.
 
-> a commit a day keeps you girlfriend from going away.
+> A commit a day, helps your mind from flying away!
 
 # 📣 Whats New
 
